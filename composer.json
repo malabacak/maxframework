@@ -1,0 +1,10 @@
+{
+	"name": "malabacak/maxframework",
+	"description": "MaxBB Framework.",
+	"keywords": ["max", "framework"],
+	"license": "None",
+	"type": "project",
+	"require": {
+		"malabacak/framework": "1.0.*"
+	}
+}
